@@ -15,9 +15,9 @@ Aim is to:
 
 |   | notebook                      | description                    |
 |---|-------------------------------|--------------------------------|
-|1. |[EDA](https://github.com/doscsy12/pilot_proj/blob/main/PILOT/EDA.ipynb) | EDA | 
-|2. |[VGG16](https://github.com/doscsy12/pilot_proj/blob/main/PILOT/VGG16_model.ipynb) | VGG16 model |
-|3. |[Resnet50](https://github.com/doscsy12/pilot_proj/blob/main/PILOT/Resnet50_model.ipynb) | Resnet50 model |
+|1. |[EDA](https://github.com/doscsy12/pilot_proj/blob/main/EDA.ipynb) | EDA | 
+|2. |[VGG16](https://github.com/doscsy12/pilot_proj/blob/main/VGG16_model.ipynb) | VGG16 model |
+|3. |[Resnet50](https://github.com/doscsy12/pilot_proj/blob/main/Resnet50_model.ipynb) | Resnet50 model |
 |4. |[..]()  | Xception model |
 |5. |[..]()  | InceptionV3 model |
 
@@ -31,9 +31,9 @@ This pilot project aims to explore the use of pitch recognition to improve the a
 
 |   | notebook                      | description                    |
 |---|-------------------------------|--------------------------------|
-|1. |[1st experiment](https://github.com/doscsy12/pilot_proj/blob/main/PILOT/pitch_recognition.ipynb) | Own feature extraction + LogReg and SVM models |
-|2. |[2nd experiment](https://github.com/doscsy12/pilot_proj/blob/main/PILOT/pitch_recognition-pt2.ipynb)  | Feature extraction from Praat spectral analysis + LogReg and SVM models
-|3. |[3rd experiment](https://github.com/doscsy12/pilot_proj/blob/main/PILOT/pitch_recognition-pt3.ipynb)  | Train CNN to extract MFCC embeddings + LogReg and SVM models  |
-|4. |[4th experiment](https://github.com/doscsy12/pilot_proj/blob/main/PILOT/pitch_recognition-pt4.ipynb)  | Utilise pretrained audio embeddings from Wav2Vec2.0 (Facebook AI) + LogReg and SVM models  |
+|1. |[1st experiment](https://github.com/doscsy12/pilot_proj/blob/main/pitch_recognition.ipynb) | Own feature extraction + LogReg and SVM models |
+|2. |[2nd experiment](https://github.com/doscsy12/pilot_proj/blob/main/pitch_recognition-pt2.ipynb)  | Feature extraction from Praat spectral analysis + LogReg and SVM models
+|3. |[3rd experiment](https://github.com/doscsy12/pilot_proj/blob/main/pitch_recognition-pt3.ipynb)  | Train CNN to extract MFCC embeddings + LogReg and SVM models  |
+|4. |[4th experiment](https://github.com/doscsy12/pilot_proj/blob/main/pitch_recognition-pt4.ipynb)  | Utilise pretrained audio embeddings from Wav2Vec2.0 (Facebook AI) + LogReg and SVM models  |
 |5. |[]()  | Multi-feature / hybrid model - combine feature extraction using different techniques |
 |6. |[]()  | Multi-modal model - combine features from different modalities (MFCCs, pitch, images, pretrained embeddings) | 
